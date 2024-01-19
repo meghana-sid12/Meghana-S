@@ -36,5 +36,5 @@
 
 ### Contact:
 - 📧 Email: meghanasidd98@gmail.com
-- 📱 LinkedIn: [[LinkedIn Profile](https://www.linkedin.com/in/meghana-s-575278177/)https://www.linkedin.com/in/meghana-s-575278177/](#)
+- 📱 LinkedIn: [[LinkedIn Profile](https://www.linkedin.com/in/meghana-s-575278177/)LinkedIn](#)
 - 📞 Phone: +91-9731729700
