@@ -12,12 +12,12 @@
 - Hypothesis Testing, Product Analysis
 
 ### Projects:
-- [Understanding customer orders at Target](#)
-- [Product Analysis at Aerofit](#)
-- [Sales Dashboard using Tableau](#)
-- [Sales Analysis for an e-commerce platform](#)
-- [Adapting Business Models in the Digital Era: A Case Study](#)
-- [E-commerce Marketing and Shopping EDA & Hypothesis testing with Python](#)
+- [[Understanding customer orders at Target]()](#)
+- [[Product Analysis at Aerofit]()](#)
+- [[Sales Dashboard using Tableau]()](#)
+- [[Sales Analysis for an e-commerce platform]()](#)
+- [[Adapting Business Models in the Digital Era: A Case Study]()](#)
+- [[E-commerce Marketing and Shopping EDA & Hypothesis testing with Python]()](#)
 
 ### Experience:
 - Mathematics Lecturer at KLE Society'S SNC/IDC PU college
@@ -36,5 +36,5 @@
 
 ### Contact:
 - 📧 Email: meghanasidd98@gmail.com
-- 📱 LinkedIn: [[LinkedIn Profile](https://www.linkedin.com/in/meghana-s-575278177/)LinkedIn](#)
+- 📱 LinkedIn: [[LinkedIn Profile](https://www.linkedin.com/in/meghana-s-575278177/)](#)
 - 📞 Phone: +91-9731729700
