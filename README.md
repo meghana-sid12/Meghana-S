@@ -12,7 +12,7 @@
 - Hypothesis Testing, Product Analysis
 
 ### Projects:
-- [[Understanding customer orders at Target]()](#)
+- [[Understanding customer orders at Target](https://github.com/meghana-sid12/Understanding-customer-orders-at-Target.git)](#)
 - [[Product Analysis at Aerofit]()](#)
 - [[Sales Dashboard using Tableau]()](#)
 - [[Sales Analysis for an e-commerce platform]()](#)
