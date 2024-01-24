@@ -29,7 +29,7 @@
 - B.Sc Computer science and Mtahematics, Shri Bhagawan Mahaveer Jain College 2018, 8.2 CGPA
 
 ### Certifications:
-- [MySQL (Intermediate) Certificate][[(https://www.hackerrank.com/certificates/b7c4086404a7)]] - HackerRank
+- MySQL (Intermediate)[[Certificate](https://www.hackerrank.com/certificates/b7c4086404a7)] - HackerRank
 
 ### Achievements:
 - Best Outgoing Student of B.Sc, Shri Bhagawan Mahaveer Jain College.
