@@ -16,7 +16,7 @@
 - [[Understanding customer orders at Target](https://github.com/meghana-sid12/Understanding-customer-orders-at-Target.git)]
 - [[Netflix Content Analysis](https://github.com/meghana-sid12/Netflix-Content-Analysis/blob/main/Copy_of_Business_Case_Netflix_Data_Exploration_and_Visualisation.ipynb)]
 - [[Product Analysis at Aerofit]()]
-- [[Sales Dashboard using Tableau]()]
+- [[Sales Dashboard using Tableau](https://github.com/meghana-sid12/Sales-Dashboard.git)]
 - [[E-commerce Marketing and Shopping EDA & Hypothesis testing with Python]()](#)
 
 ### Experience:
