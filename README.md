@@ -25,11 +25,11 @@
 
 ### Education:
 - Scaler 2024, Specialized in Data Science & Machine Learning
-- Bangalore University 2020, MS, 7.8 CGPA
-- Shri Bhagawan Mahaveer Jain College 2018, BE/B.Tech/BS, 8.2 CGPA
+- M.Sc Mathematics, Bangalore University, 2020, 7.8 CGPA
+- B.Sc Computer science and Mtahematics, Shri Bhagawan Mahaveer Jain College 2018, 8.2 CGPA
 
 ### Certifications:
-- [MySQL (Intermediate) Certificate](#) - HackerRank
+- [MySQL (Intermediate) Certificate]((https://www.hackerrank.com/certificates/b7c4086404a7)) - HackerRank
 
 ### Achievements:
 - Best Outgoing Student of B.Sc, Shri Bhagawan Mahaveer Jain College.
