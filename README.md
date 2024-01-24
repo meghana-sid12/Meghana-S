@@ -12,11 +12,11 @@
 - Hypothesis Testing, Product Analysis
 
 ### Projects:
+- [[Sales Dashboard using Tableau](https://github.com/meghana-sid12/Sales-Dashboard.git)]
 - [[Walmart Customer Purchase Behavior Analysis](https://github.com/meghana-sid12/Walmart-Customer-Purchase-Behavior-Analysis/blob/main/walmart_new.ipynb)]
 - [[Understanding customer orders at Target](https://github.com/meghana-sid12/Understanding-customer-orders-at-Target.git)]
 - [[Netflix Content Analysis](https://github.com/meghana-sid12/Netflix-Content-Analysis/blob/main/Copy_of_Business_Case_Netflix_Data_Exploration_and_Visualisation.ipynb)]
-- [[Product Analysis at Aerofit]()]
-- [[Sales Dashboard using Tableau](https://github.com/meghana-sid12/Sales-Dashboard.git)]
+- [[Product Analysis at Aerofit](https://github.com/meghana-sid12/Product-Analysis-at-Aerofit/blob/main/aerofit%20(2).ipynb)]
 - [[E-commerce Marketing and Shopping EDA & Hypothesis testing with Python]()](#)
 
 ### Experience:
