@@ -12,6 +12,7 @@
 - Hypothesis Testing, Product Analysis
 
 ### Projects:
+- [[CRM Analytics](https://github.com/meghana-sid12/CRM-Analysis/blob/main/crm_analysis%20(1).ipynb)]
 - [[Sales Dashboard using Tableau](https://github.com/meghana-sid12/Sales-Dashboard.git)]
 - [[Walmart Customer Purchase Behavior Analysis](https://github.com/meghana-sid12/Walmart-Customer-Purchase-Behavior-Analysis/blob/main/walmart_new.ipynb)]
 - [[Sales Analysis using SQL in BigQuery](https://github.com/meghana-sid12/Sales-Analysis.git)]
@@ -39,5 +40,5 @@
 
 ### Contact:
 - 📧 Email: meghanasidd98@gmail.com
-- 📱 LinkedIn: [[LinkedIn Profile](https://www.linkedin.com/in/meghana-s-575278177/)](#)
+- 📱 LinkedIn: [[LinkedIn Profile](https://www.linkedin.com/in/meghana-s-575278177/)]
 - 📞 Phone: +91-9731729700
