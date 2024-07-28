@@ -13,7 +13,7 @@
 
 ### Projects:
 - [[CRM Analytics](https://github.com/meghana-sid12/CRM-Analysis/blob/main/crm_analysis%20(1).ipynb)]
-- [[Sales Dashboard using Tableau](https://github.com/meghana-sid12/Sales-Dashboard.git)]
+- [[Sales Dashboard using Power BI](https://github.com/meghana-sid12/Sales-Dashboard.git)]
 - [[Walmart Customer Purchase Behavior Analysis](https://github.com/meghana-sid12/Walmart-Customer-Purchase-Behavior-Analysis/blob/main/walmart_new.ipynb)]
 - [[Sales Analysis using SQL in BigQuery](https://github.com/meghana-sid12/Sales-Analysis.git)]
 - [[E-commerce Marketing and Shopping EDA & Hypothesis testing with Python](https://github.com/meghana-sid12/E-commerce-Marketing-and-Shopping-EDA-Hypothesis-Testing/blob/main/e_commerce_analysis.ipynb)]
