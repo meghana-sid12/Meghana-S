@@ -1,13 +1,13 @@
 ## Hi there, I'm Meghana 👋
 
-- 🌐 Data Analyst with expertise in Probability, Statistics, MySQL, Python, Tableau, and more.
+- 🌐 Data Analyst with expertise in Probability, Statistics, MySQL, Python, Power BI, and more.
 - 📈 Experienced in Exploratory Data Analysis, Hypothesis Testing, and Product Analysis.
 - 🛠️ Skilled in creating impactful dashboards and conducting in-depth data-driven analyses.
 
 ### Skills:
 - Probability and Statistics
 - MySQL, Python
-- Tableau, MS Excel
+- Power BI, MS Excel
 - Exploratory Data Analysis
 - Hypothesis Testing, Product Analysis
 
